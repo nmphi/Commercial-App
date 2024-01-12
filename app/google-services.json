@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913513358133",
+    "firebase_url": "https://dacs3-1ca2b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dacs3-1ca2b",
+    "storage_bucket": "dacs3-1ca2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913513358133:android:93dd29e57f465c0de9227c",
+        "android_client_info": {
+          "package_name": "com.example.dacs3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913513358133-588rfchuea5afke19d5hr2ftgb4bqc5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqwRGO7mqpcfI4_sjXaDW71ZEZCxUgOVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913513358133-588rfchuea5afke19d5hr2ftgb4bqc5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
